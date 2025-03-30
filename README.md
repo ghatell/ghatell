@@ -1,5 +1,10 @@
 <h1>Hi, I'm Soroush, an <a href="https://www.linkedin.com/in/soroush-asadi-881098178/">IT Professional</a>☺</h1>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [STIG Implementations]([https://github.com/ghatell/osticket-prereqs](https://github.com/ghatell/stig-implementations))
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
