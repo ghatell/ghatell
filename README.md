@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [STIG Implementations]([https://github.com/ghatell/osticket-prereqs](https://github.com/ghatell/stig-implementations))
+  - [STIG Implementations](https://github.com/ghatell/stig-implementations)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
