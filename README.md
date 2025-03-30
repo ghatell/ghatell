@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Vulnerability Management</b>
   - [STIG Implementations](https://github.com/ghatell/stig-implementations)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
