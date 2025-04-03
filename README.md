@@ -1,6 +1,5 @@
 <h1><a href="https://www.linkedin.com/in/soroush-asadi-881098178/">Soroush Asadi</a>'s IT and Cybersecurity Project Portfolio 🔐</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
 <p>I'm really into cybersecurity and enjoy taking on complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, I like digging into the details and staying sharp in this constantly evolving field. Feel free to check out my projects—each one’s been a great way for me to improve security operations and processes in a practical way!</p>
 <h2>⚠️ Vulnerability Management</h2>
 
