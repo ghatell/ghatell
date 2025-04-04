@@ -5,7 +5,6 @@
 
 - <b>[STIG Implementations](https://github.com/ghatell/stig-implementations)<b>
 - <b>[Vulnerability Management Program Implementation](https://github.com/ghatell/vulnerability-management-program)<b>
-- <b>[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)<b>
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
 
