@@ -8,8 +8,8 @@
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
 
-- <b>[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ghatell/threat-hunting-scenario-tor)<b>
-
+- <b>[Threat Hunting Scenario: Tor Browser Usage](https://github.com/ghatell/threat-hunting-scenario-tor)<b>
+- <b>[Threat Hunting Scenario: Investigating Brute Force Attacks](https://github.com/ghatell/threat-hunting-scenario-1)</b>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
