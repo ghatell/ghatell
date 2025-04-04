@@ -9,7 +9,7 @@
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
 
-- <b>[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)<b>
+- <b>[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ghatell/threat-hunting-scenario-tor)<b>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
