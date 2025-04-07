@@ -13,6 +13,7 @@
 - <b>[Threat Hunting Scenario: Sudden Network Slowdowns](https://github.com/ghatell/threat-hunting-scenario-2)</b>
 - <b>[Threat Hunting Scenario: Data Exfiltration from PIP'd Employee](https://github.com/ghatell/threat-hunting-scenario-3)</b>
 - <b>[Incident Response: Brute Force Attempt Detection](https://github.com/ghatell/incident-response-scenario-1)</b>
+- <b>[Incident Response: PowerShell Suspicious Web Request](https://github.com/ghatell/incident-response-scenario-2)</b>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
