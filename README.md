@@ -6,6 +6,7 @@
 - <b>[Controls and Compliance Checklist](https://github.com/ghatell/controls-compliance-checklist)</b>
 - <b>[STIG Implementations](https://github.com/ghatell/stig-implementations)<b>
 - <b>[Vulnerability Management Program Implementation](https://github.com/ghatell/vulnerability-management-program)<b>
+- <b>[GRC Mapping – Incident Response & Compliance](https://github.com/ghatell/grc-mapping)
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
 
@@ -16,6 +17,7 @@
 - <b>[Incident Response: Brute Force Attempt Detection](https://github.com/ghatell/incident-response-scenario-1)</b>
 - <b>[Incident Response: PowerShell Suspicious Web Request](https://github.com/ghatell/incident-response-scenario-2)</b>
 - <b>[Incident Response: Potential Impossible Travel](https://github.com/ghatell/incident-response-scenario-3)</b>
+- <b>[Incident Handling & Analysis](https://github.com/ghatell/incident-handling-analysis)</b>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
