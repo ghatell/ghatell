@@ -3,9 +3,10 @@
 <p>I'm really into cybersecurity and enjoy taking on complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, I like digging into the details and staying sharp in this constantly evolving field. Feel free to check out my projects—each one’s been a great way for me to improve security operations and processes in a practical way!</p>
 <h2>⚠️ GRC</h2>
 
-- <b>[Controls and Compliance Checklist](https://github.com/ghatell/controls-compliance-checklist)</b>
+- <b>[Utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/ghatell/Utilizing-NIST-CSF)</b>
 - <b>[STIG Implementations](https://github.com/ghatell/stig-implementations)<b>
 - <b>[Vulnerability Management Program Implementation](https://github.com/ghatell/vulnerability-management-program)<b>
+- <b>[Controls and Compliance Checklist](https://github.com/ghatell/controls-compliance-checklist)</b>
 - <b>[GRC Mapping – Incident Response & Compliance](https://github.com/ghatell/grc-mapping)
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
