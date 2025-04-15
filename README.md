@@ -1,13 +1,12 @@
 <h1><a href="https://www.linkedin.com/in/soroush-asadi-881098178/">Soroush Asadi</a>'s IT and Cybersecurity Project Portfolio 🔐</h1>
 
 <p>I'm really into cybersecurity and enjoy taking on complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, I like digging into the details and staying sharp in this constantly evolving field. Feel free to check out my projects—each one’s been a great way for me to improve security operations and processes in a practical way!</p>
-<h2>⚠️ GRC</h2>
+<h2>⚠️ Vulnerability Management</h2>
 
-- <b>[Utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/ghatell/Utilizing-NIST-CSF)</b>
+
 - <b>[STIG Implementations](https://github.com/ghatell/stig-implementations)<b>
 - <b>[Vulnerability Management Program Implementation](https://github.com/ghatell/vulnerability-management-program)<b>
-- <b>[Controls and Compliance Checklist](https://github.com/ghatell/controls-compliance-checklist)</b>
-- <b>[GRC Mapping – Incident Response & Compliance](https://github.com/ghatell/grc-mapping)
+
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
 
@@ -19,6 +18,12 @@
 - <b>[Incident Response: PowerShell Suspicious Web Request](https://github.com/ghatell/incident-response-scenario-2)</b>
 - <b>[Incident Response: Potential Impossible Travel](https://github.com/ghatell/incident-response-scenario-3)</b>
 - <b>[Incident Handling & Analysis](https://github.com/ghatell/incident-handling-analysis)</b>
+
+<h2>🏛️⚖️🛡️ GRC</h2>
+
+- <b>[Utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/ghatell/Utilizing-NIST-CSF)</b>
+- <b>[Controls and Compliance Checklist](https://github.com/ghatell/controls-compliance-checklist)</b>
+- <b>[GRC Mapping – Incident Response & Compliance](https://github.com/ghatell/grc-mapping)</b>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
